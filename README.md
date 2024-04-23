@@ -4,7 +4,7 @@ https://github.com/DurgaMewada/e_commerce_app/assets/149373536/bbf97e0d-6174-451
 A new Flutter project.
 
 <p align="center">
-    <img src = 'https://github.com/DurgaMewada/e_commerce_app/assets/149373536/450daeba-c2aa-41c3-b91d-5faf93d72640" width=22% height=35% >
+    <img src = "https://github.com/DurgaMewada/e_commerce_app/assets/149373536/450daeba-c2aa-41c3-b91d-5faf93d72640" width=22% height=35% >
     <img src = "https://github.com/DurgaMewada/e_commerce_app/assets/149373536/dcbcf30a-791d-488d-a6b5-1327b25ca348" width=22% height=35% >
     <img src = "https://github.com/DurgaMewada/e_commerce_app/assets/149373536/40a84088-ca4e-4454-8839-79449501b3a2" width=22% height=35% >
     <img src = "https://github.com/DurgaMewada/e_commerce_app/assets/149373536/40ce3a18-a6c0-4ace-aab2-6a77095872dc" width=22% height=35% >
