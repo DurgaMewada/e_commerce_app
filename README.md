@@ -1,8 +1,5 @@
 # E Commerce App
-
-
 https://github.com/DurgaMewada/e_commerce_app/assets/149373536/bbf97e0d-6174-4517-8983-51c4f86dc203
-
 
 <p align="center">
     <img src = 'https://github.com/DurgaMewada/e_commerce_app/assets/149373536/450daeba-c2aa-41c3-b91d-5faf93d72640" width=22% height=35% >
